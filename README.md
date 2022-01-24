@@ -1,4 +1,5 @@
-<center><img src='resources/icons/logoLarge.svg' height='100px' style='border-radius: 10px;'/></center>
+
+
 
 ---
 
